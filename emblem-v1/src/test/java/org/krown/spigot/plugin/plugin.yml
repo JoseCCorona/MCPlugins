@@ -1,0 +1,5 @@
+name: Emblem
+version: 1.0
+author: Krlous
+main: org.krown.spigot.plugin.Main
+description: Personalized emblems based on scoreboards - first plugin.
